@@ -13,6 +13,15 @@
 <br>
 
 ## Projects
+<div align="center">
+
+<a href="https://github.com/raze331/project-one">Project One</a>
+<a href="https://github.com/raze331/project-two">Project Two</a>
+<a href="https://github.com/raze331/project-three">Project Three</a>
+<a href="https://github.com/raze331/project-three">Project Three</a>
+<a href="https://github.com/raze331/project-three">Project Three</a>
+<a href="https://github.com/raze331/project-three">Project Three</a>
+</div>
 
 ## Stats
 <div align="center">
