@@ -5,22 +5,20 @@
 <br>
 <div align="center"> <img src="https://count.getloli.com/@raze331?name=raze331&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
 
-
-
-
 ## Stack
 <div align="center"><img src="https://skillicons.dev/icons?i=py,js,ts,vite,html,css,nodejs,sqlite,git,vscode,github,vercel&theme=dark" />
 <br>
 
 ## Projects
-<div align="center">
 
-<a href="https://github.com/raze331/project-one">Project One</a>
+<div align="center" style="display: flex; flex-direction: column; align-items: flex-start;">
+
+<a href="https://github.com/raze331/Discord-Server-Backup-Bot">Discord Server Restoration Bot</a>
+
 <a href="https://github.com/raze331/project-two">Project Two</a>
+
 <a href="https://github.com/raze331/project-three">Project Three</a>
-<a href="https://github.com/raze331/project-three">Project Three</a>
-<a href="https://github.com/raze331/project-three">Project Three</a>
-<a href="https://github.com/raze331/project-three">Project Three</a>
+
 </div>
 
 ## Stats
