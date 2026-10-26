@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Raze&fontSize=60&fontColor=ffffff&color=0:000000,100:5865F2&animation=fadeIn&fontAlignY=35" alt="Header banner" />
 </div>
 <br>
-<div align="center"> <img src="https://count.getloli.com/@raze331?name=raze331&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
 
 ## Stack
 <div align="center"><img src="https://skillicons.dev/icons?i=py,js,ts,vite,html,css,nodejs,sqlite,git,vscode,github,vercel&theme=dark" />
