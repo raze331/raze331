@@ -1,22 +1,23 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Raze&fontSize=60&fontColor=ffffff&color=0:000000,100:5865F2&animation=fadeIn&fontAlignY=35" alt="Header banner" />
-</div>
 <br>
 
+<div align="center">
+  
 ## Stack
-<div align="center"><img src="https://skillicons.dev/icons?i=py,js,ts,vite,html,css,nodejs,sqlite,git,vscode,github,vercel&theme=dark" />
+<div align="center"><img src="https://skillicons.dev/icons?i=py,js,ts,vite,html,css,nodejs,nextjs,sqlite,vscode,github,replit,vercel,netlify&theme=dark" />
 <br>
 
 ## Projects
 
 <div align="center" style="display: flex; flex-direction: column; align-items: flex-start;">
 
-<a href="https://github.com/raze331/Discord-Server-Backup-Bot">Discord Server Restoration Bot</a>
+<a href="https://github.com/raze331/Discord-Webhook-Speaker">Discord Webhook Speaker</a>
 
-<a href="https://github.com/raze331/project-two">Project Two</a>
+<a href="https://github.com/raze331/Discord-Chat-Logger">Discord Chat Logger</a>
 
-<a href="https://github.com/raze331/project-three">Project Three</a>
+<a href="https://github.com/raze331/Discord-Raider-v2">Discord Raider v2</a>
 
 </div>
 
