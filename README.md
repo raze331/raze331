@@ -6,7 +6,7 @@
 <div align="center">
   
 ## Stack
-<div align="center"><img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,html,css,vite,nextjs,sqlite,vscode,github,replit,vercel,netlify&theme=dark"/>
+<div align="center"><img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,html,css,vite,nextjs,astro,vscode,github,replit,vercel,netlify&theme=dark"/>
 <br>
 
 ## Projects
