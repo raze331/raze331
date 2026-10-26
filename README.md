@@ -6,11 +6,10 @@
 <div align="center">
   
 ## Stack
-<div align="center"><img src="https://skillicons.dev/icons?i=py,js,ts,vite,html,css,nodejs,nextjs,sqlite,vscode,github,replit,vercel,netlify&theme=dark" />
+<div align="center"><img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,html,css,vite,nextjs,sqlite,vscode,github,replit,vercel,netlify&theme=dark"/>
 <br>
 
 ## Projects
-
 <div align="center" style="display: flex; flex-direction: column; align-items: flex-start;">
 
 <a href="https://github.com/raze331/Discord-Webhook-Speaker">Discord Webhook Speaker</a>
