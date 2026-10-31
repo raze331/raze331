@@ -5,14 +5,6 @@
 ## Stack
 <div align="center"><img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,html,css,vite,nextjs,astro,vscode,cloudflare,replit,vercel,netlify&theme=dark"/>
 
-## Projects
-<div align="center" style="display: flex; flex-direction: column; align-items: flex-start;">
-
-<a href="https://github.com/raze331/Discord-Webhook-Speaker">Discord Webhook Speaker</a>
-
-<a href="https://github.com/raze331/Discord-Chat-Logger">Discord Chat Logger</a>
-
-<a href="https://github.com/raze331/Discord-Raider-v2">Discord Raider v2</a>
 
 ## Stats
 <div align="center">
