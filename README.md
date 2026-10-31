@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Raze&fontSize=60&fontColor=ffffff&color=0:2E004F,100:6A0DAD&animation=fadeIn&fontAlignY=35" alt="Header banner" />
 
 ## Stack
-<div align="center"><img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,html,css,vite,nextjs,astro,vscode,github,replit,vercel,netlify&theme=dark"/>
+<div align="center"><img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,html,css,vite,nextjs,astro,vscode,cloudflare,replit,vercel,netlify&theme=dark"/>
 
 ## Projects
 <div align="center" style="display: flex; flex-direction: column; align-items: flex-start;">
